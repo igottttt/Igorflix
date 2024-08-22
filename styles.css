@@ -1,8 +1,24 @@
 body {
-   color: purple;
-   background-color: darkgoldenrod;
+color: green ;
+   background: yellow;
+  margin : 0px;
  }
  header {
-  border-bottom: solid 6px goldenrod
- }
- 
+  border-bottom: solid 2px rgb(255, 166, 0);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(255, 0, 0);
+}
+section {
+  background: rgb(0, 0, 0); 
+    padding-bottom: 80px;
+     padding-top: 80px;
+    display: flex;
+    justify-content:center;
+}
+div {
+  margin-right: 20px;
+}
+.chamada-texto {
+  margin-right: 5%;
+}
